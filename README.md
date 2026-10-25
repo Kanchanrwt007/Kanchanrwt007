@@ -1,4 +1,4 @@
-<h1 align="center">🎀 PLAYER 01: DATA ANALYST IN THE MAKING 🖤</h1><p align="center">
+<h1 align="center">🎀 KANCHAN RAWAT: DATA ANALYST IN THE MAKING 🖤</h1><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+C%2B%2B+%7C+C+%7C+SQL;Excel+%7C+Tableau+%F0%9F%8E%80;Curiosity+is+my+superpower+%E2%9C%A8;Always+learning.+Always+leveling+up.+%F0%9F%96%A4" alt="Animated typing introduction"/>
 </p><p align="center">
   <img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
@@ -27,13 +27,6 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>---
 
-📊 DATA ANALYTICS PROJECTS
-
-- [Project Name] — Tools: "[Python / SQL / Excel / Tableau]" | Dataset: "[Dataset name or source]" | Key insights: "[Summarize the main findings or trends]"
-- [Project Name] — Tools: "[Python / SQL / Excel / Tableau]" | Dataset: "[Dataset name or source]" | Key insights: "[Summarize the main findings or trends]"
-- [Project Name] — Tools: "[Python / SQL / Excel / Tableau]" | Dataset: "[Dataset name or source]" | Key insights: "[Summarize the main findings or trends]"
-
----
 
 💗 BEYOND THE CODE
 
